@@ -13,10 +13,18 @@ Project Description:
 
 - This project will model basic drone movement in 2D space using physics equations for thrust and gravity.
 
+- Description of components, features, outputs, elements (classes)
+
+- Desc of target demographic
+
+- <class diagram here>
+
 Goals:
 
-What our group wants as long term outcomes from this project are that 
+What our group wants as long term outcomes from this project are for users to familiarize themselves with or learn basic physics concepts as well as enable future advanced object/vehicle movement simulations to use this model as basis or guide for 3D spaces.
 
-Objective 1: users may familiarize or learn basic physics concepts,
-Objective 2: future advanced object/vehicle movement simulations may use this model as basis
+Objective 1: 
+
+Objective 2: 
+
 Objective n:
