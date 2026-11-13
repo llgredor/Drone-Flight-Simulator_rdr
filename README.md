@@ -17,6 +17,6 @@ Goals:
 
 What our group wants as long term outcomes from this project are that 
 
-Objective 1:
-Objective 2:
+Objective 1: users may familiarize or learn basic physics concepts,
+Objective 2: future advanced object/vehicle movement simulations may use this model as basis
 Objective n:
