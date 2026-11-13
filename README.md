@@ -17,11 +17,11 @@ Project Description:
 
 - Desc of target demographic
 
-- <class diagram here>
+- class diagram here
 
 Goals:
 
-What our group wants as long term outcomes from this project are for users to familiarize themselves with or learn basic physics concepts as well as enable future advanced object/vehicle movement simulations to use this model as basis or guide for 3D spaces.
+What our group wants as long term outcomes from this project are for users to familiarize themselves with or learn basic physics concepts as well as enable future advanced object/vehicle movement simulations to use this model as a basis or guide.
 
 Objective 1: 
 
