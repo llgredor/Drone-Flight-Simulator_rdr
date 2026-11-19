@@ -17,7 +17,7 @@ Project Description:
 
 - The project's target demographic are high school students who currently study Physics.
 
-- <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/be54a990-936a-4ec4-9215-e582130caf93" />
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/be54a990-936a-4ec4-9215-e582130caf93" />
 
 
 Goals:
