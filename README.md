@@ -23,8 +23,8 @@ Goals:
 
 What our group wants as long term outcomes from this project are for users to familiarize themselves with or learn basic physics concepts as well as enable future advanced object/vehicle movement simulations to use this model as a basis or guide.
 
-Objective 1: 
+Objective 1: Implement 2D kinematics and physics calculation. Develope the Drone class using proper progrsmming to compute 2D displacement, thrust, gravity and the instantaneous motions given by the user.
 
-Objective 2: 
+Objective 2: Build an interactive user input system. Create a user-friendly interphase where students can input and modify the drone’s variables to their desired parameters.
 
-Objective n:
+Objective 3: Polish making an educational physics tool. Design the simulation to properly emulate and visualize the physics of basic projectile movement and vehical motion for high school students.
